@@ -3,8 +3,6 @@ package chuckTest;
 import java.util.ArrayList;
 import java.util.List;
 
-import myPeople.People;
-import myPeople.mygun;
 
 public class mydemo {
 
